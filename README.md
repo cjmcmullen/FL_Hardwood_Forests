@@ -4,7 +4,7 @@ Scripts used for FL Hardwood Forests at the University of Florida (ECOLOGICAL NI
 ## Contents Overview
 A suite of R and shell scripts, organized sequentially to support the complete workflow from raw data acquisition and cleaning through modeling and visualization:
 
- - 01_FL_HardwoodForests_Download_Records.R
+- 01_FL_HardwoodForests_Download_Records.R
 - 02_FL_HardwoodForests_taxonomic_names.R
 - 03A_FL_HardwoodForests_Record_cleaning.R
 - 03B_FL_HardwoodForests_EndemicRecords.R
