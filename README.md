@@ -4,7 +4,7 @@ Scripts used for FL Hardwood Forests at the University of Florida (ECOLOGICAL NI
 ## Contents Overview
 A suite of R and shell scripts, organized sequentially to support the complete workflow from raw data acquisition and cleaning through modeling and visualization:
 
-- 01_FL_HardwoodForests_Download_Records.R
+ - 01_FL_HardwoodForests_Download_Records.R
 - 02_FL_HardwoodForests_taxonomic_names.R
 - 03A_FL_HardwoodForests_Record_cleaning.R
 - 03B_FL_HardwoodForests_EndemicRecords.R
@@ -73,4 +73,4 @@ This pipeline produces:
 Developed for the Spring 2024 Florida Hardwood Forests CURE at the University of Florida. Contributions are welcome following academic use and appropriate citation.
 
 ## Contact
-For questions, suggestions, or clarifications, please contact Makenzie via GitHub or through institutional channels.
+For questions, suggestions, or clarifications, please contact Cameron via GitHub or through institutional channels.
