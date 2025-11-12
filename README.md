@@ -44,7 +44,7 @@ This repository provides a structured, reproducible pipeline for:
 - Modeling current and future species distributions via ecological niche models,
 - Projecting changes under future climates,
 - Mapping species richness and generating key figures for interpretation.
-- This project was developed as part of a Course-Based Undergraduate Research Experience (CURE) at the University of Florida.
+- This project was first developed as part of a Course-Based Undergraduate Research Experience (CURE) at the University of Florida.
 
 ## Prerequisites
 - R (≥ 4.x recommended)
