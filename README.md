@@ -25,7 +25,6 @@ A suite of R and shell scripts, organized sequentially to support the complete w
 - 15_FL_HardwoodForests_Latitude_Counts.R
 - 16_FL_HardwoodForests_Species_Richness.R
 - ALLdf_Edits.R
-- CopyOf12_FL_HardwoodForests_Mapping.R
 - Figure_2.R
 - Figure_3.R
 - Figure_5_Species_Richness_Sea_Level.R
