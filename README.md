@@ -4,7 +4,34 @@ Scripts used for FL Hardwood Forests at the University of Florida (ECOLOGICAL NI
 ## Contents Overview
 A suite of R and shell scripts, organized sequentially to support the complete workflow from raw data acquisition and cleaning through modeling and visualization:
 
-- 
+- 01_FL_HardwoodForests_Download_Records.R
+- 02_FL_HardwoodForests_Taxonomic_Names.R
+- 03A_FL_HardwoodForests_Record_Cleaning.R
+- 03B_FL_HardwoodForests_Endemic_Records.R
+- 03C_FL_HardwoodForests_Record_Cleaning.R
+- 04_FL_HardwoodForests_Species_Maps.R
+- 05A_FL_HardwoodForests_Species_Environmental_Variables.R
+- 05B_FL_HardwoodForests_Pearsons.R
+- 06_FL_HardwoodForests_Ecological_Niche_Modeling.R
+- 07_FL_HardwoodForests_Projections.R
+- 08_HardwoodForests_Hardwood_Suitability.R
+- 09_FL_HardwoodForests_Future_Projections.R
+- 10_FL_HardwoodForests_Projection_Comparisons.R
+- 11_FL_HardwoodForests_ETF_Projections.R
+- 11_FL_HardwoodForests_US_Projections.R
+- 12_FL_HardwoodForests_Unfilling_Plots.R
+- 13_FL_HardwoodForests_Mapping.R
+- 14_FL_HardwoodForests_Management_Maps.R
+- 15_FL_HardwoodForests_Latitude_Counts.R
+- 16_FL_HardwoodForests_Species_Richness.R
+- ALLdf_Edits.R
+- CopyOf12_FL_HardwoodForests_Mapping.R
+- Figure_2.R
+- Figure_3.R
+- Figure_5_Species_Richness_Sea_Level.R
+- Hardwood_Map.R
+- Richness_Supplementals.R
+- Supplemental_Figures_Plotting.R
 
 ## Purpose
 This repository provides a structured, reproducible pipeline for:
